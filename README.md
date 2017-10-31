@@ -1,3 +1,7 @@
+Mostly moved to it's own file in the main branch of the PolaronMobility.jl codes/package:
+
+https://github.com/jarvist/PolaronMobility.jl/blob/master/src/OedipusRex.jl
+
 # OedipusRex
 
 ```
